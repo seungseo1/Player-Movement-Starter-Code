@@ -1,4 +1,4 @@
-/// @description Establish key vars
+ /// @description Establish key vars
 
 hsp = 0;
 hsp_wjump = 9;
@@ -11,8 +11,8 @@ grv_wall = 0.05;
 walksp = 1;
 max_walksp = 3;
 
-hsp_fric_ground = 0.2;
-hsp_fric_air = 0.05;
+hsp_fric_ground = 2;
+hsp_fric_air = 0.03;
 hsp_fric_slide = 0.01;
 
 jumpsp = 7;
@@ -30,6 +30,6 @@ walljumpdelay_max = 35;
 slideresetdelay = 0;
 slideresetdelay_max = 60;
 slidedelay = 0;
-slidedelay_max = 30;
-slidestuck_spd = 1;
+slidedelay_max = 120;
+slidestuck_spd = 100;
 slidestuck = false;
