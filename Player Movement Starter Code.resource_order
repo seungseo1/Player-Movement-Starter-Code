@@ -9,7 +9,9 @@
     {"name":"spr_player_jump","order":8,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"ts_tiles","order":4,"path":"tilesets/ts_tiles/ts_tiles.yy",},
+    {"name":"spr_spike","order":10,"path":"sprites/spr_spike/spr_spike.yy",},
     {"name":"spr_player_run","order":5,"path":"sprites/spr_player_run/spr_player_run.yy",},
     {"name":"spr_player","order":4,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_spike","order":2,"path":"objects/obj_spike/obj_spike.yy",},
   ],
 }

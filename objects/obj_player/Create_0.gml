@@ -31,5 +31,5 @@ slideresetdelay = 0;
 slideresetdelay_max = 60;
 slidedelay = 0;
 slidedelay_max = 120;
-slidestuck_spd = 100;
+slidestuck_spd = 2;
 slidestuck = false;
